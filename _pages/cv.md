@@ -20,15 +20,8 @@ Work experience
 * 2019-present: Lecturer
   * Guangzhou College of Commerce
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Fiancial Internship
+  * China Guangfa Bank
   
 Skills
 ======
