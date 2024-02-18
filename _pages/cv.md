@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economic, Jinan University, 2025 (expected)
+* Visiting Ph.D. students,Univesity of Mannheim, 2024
+* Ph.D. in Economic, Jinan University, 2025 (expected)
 * M.S. in Taxation, Jinan University, 2019
 * B.S. in Management, Guangdong University of Finance, 2017
 
