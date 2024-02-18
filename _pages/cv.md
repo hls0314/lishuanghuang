@@ -17,10 +17,8 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-present: Lecturer
+  * Guangzhou College of Commerce
 
 * Fall 2015: Research Assistant
   * Github University
@@ -34,12 +32,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata
+* Python
 
 Publications
 ======
