@@ -14,7 +14,9 @@ My research interests are International Trade and Labor Economics, with two main
 Contact Information
 ======
 Department of Economics, University of Mannheim
+
 B6,28-30, 68161
+
 Email: lishuanghuanggz@163.com
 
 Getting started
